@@ -228,7 +228,13 @@
 	width: 330px;
 }
 
-.phon-menu{display: none;}
+.phone-menu{
+	display: none;
+}
+
+.messangers-phone{
+	display: none;
+}
 
 @media all and (max-width: 600px){
 
