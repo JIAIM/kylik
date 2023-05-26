@@ -284,6 +284,10 @@
 	width: 330px;
 }
 
+.phone-menu{
+	display: none;
+}
+
 .messangers-phone{
 	display: none;
 }
